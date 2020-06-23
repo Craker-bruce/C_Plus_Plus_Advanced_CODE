@@ -7,7 +7,7 @@ class Base
 public:
 	void fun()
 	{
-		cout<<
+		cout << endl;
 	}
 };
 
